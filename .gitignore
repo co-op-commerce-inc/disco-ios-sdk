@@ -1,0 +1,14 @@
+# Xcode
+DerivedData/
+build/
+*.xcworkspace
+xcuserdata/
+
+# SwiftPM
+.build/
+Package.resolved
+
+# Misc
+.DS_Store
+*.xcframework.zip
+

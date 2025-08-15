@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "DiscoSDK",
-            url: "https://github.com/co-op-commerce-inc/disco-ios-sdk/releases/download/1.0.1/DiscoSDK.xcframework.zip",
-            checksum: "41e423e43104ea3288115b177e3f0bac67993006ddbff48ff7e4bd7b47d4c879"
+            url: "https://github.com/co-op-commerce-inc/disco-ios-sdk/releases/download/1.0.2/DiscoSDK.xcframework.zip",
+            checksum: "3ae0dbd8624202e3a5abda33e8cf67c04b62ed4dc797c5d0a355252afcc4d512"
         )
     ]
 )
